@@ -1,0 +1,11 @@
+{
+	"name": "ATTfold",
+	"gpu": "2",
+	"d": 10,
+	"BATCH_SIZE": 12,
+	"OUT_STEP": 100,
+	"CU_steps": 20,
+	"data_type": "rnastralign_512",
+	"EPOCHES": 9,
+	"evaluate_save": 4
+}
