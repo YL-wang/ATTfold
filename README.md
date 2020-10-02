@@ -16,11 +16,7 @@ The following is the file distribution and introduction in each folder.<br>
 #### Preprocessing of RNA sequence and structure data
 >data_preprocess
 >>rnastralign_512 <br>
->>>ALL_data.pickle<br>
->>>test.pickle<br>
->>>test_no_redundant_512.pickle<br>
->>>train.pickle<br>
->>>val.pickle<br>
+>>>test_no_redundant_512.pickle
 
 >>rnastralign_data.py <br>
 >>test_de_redundancy.py <br>
